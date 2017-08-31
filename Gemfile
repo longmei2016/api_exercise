@@ -37,6 +37,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'rest-client'
 gem 'devise'
 gem 'bootstrap-sass'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'will_paginate'
 
 
 group :development, :test do
